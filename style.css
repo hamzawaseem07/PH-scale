@@ -1,0 +1,62 @@
+#body{
+    background-color: #c0c0c0;
+    font-family: arial, Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    color: white;
+}
+h1{
+    color: black;
+}
+#w{
+    background-color: #ffffff;
+    padding: 15px;
+}
+p{
+    padding: 5px;
+    margin: 0;
+}
+#AA{
+    background-color:#0d6ca3d0 ;
+}
+#BB{
+    background-color:#338bbed0 ;
+}
+#CC{
+    background-color:#4a9bcad0 ;
+}
+#DD{
+    background-color:#5cb4e7d0 ;
+}
+#EE{
+    background-color:#6bc6fad0;
+}
+#FF{
+    background-color:#89d3fdd0 ;
+}
+#GG{
+    background-color:#aae0ffd0 ;
+}
+#HH{
+    background-color:#16aa42f3 ;
+}
+#II{
+    background-color: #ffc0cb ;
+}
+#JJ{
+    background-color:#ffacba ;
+}
+#KK{
+    background-color:#fda0b0 ;
+}
+#LL{
+    background-color:#fd94a5 ;
+}
+#MM{
+    background-color:#fc8296;
+}
+#NN{
+    background-color:#f56980 ;
+}
+#OO{
+    background-color:#f13a58 ;
+}
